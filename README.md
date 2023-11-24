@@ -1,7 +1,7 @@
 ### Hi there 👋, this is Md Nafiz Fuad Sharkar
 
 #### Web Developer 
-![Web Developer ](https://scontent.fdac22-1.fna.fbcdn.net/v/t39.30808-6/346820173_638839728272063_8869167084197837842_n.jpg?stp=dst-jpg_s1080x2048&_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGec11X9rZ9FCHi5Dfi9jJakdzWcA8T81SR3NZwDxPzVEoyS_LytjAemLCpOXClBYqnKVuKKKVO7zeRg7Fc4pEo&_nc_ohc=yZ193H9ouSIAX_qDdK1&_nc_ht=scontent.fdac22-1.fna&oh=00_AfDJ8ym-MzC4QXlRw2G-irAL4DHVrOTFfTsahkpEhCrbbQ&oe=656640FB)
+![Web Developer ](https://scontent.fdac22-1.fna.fbcdn.net/v/t39.30808-6/213268692_838121000473079_8900263857452827377_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFCmC8SC5Fmdtc32xpfZNqzx60mJFnZvwfHrSYkWdm_B7QpbhSZEDiN5HRpfb2QST6uffI_88xReOuVb3Y_s8oJ&_nc_ohc=qeh0YKlRj_kAX_5VXTW&_nc_ht=scontent.fdac22-1.fna&oh=00_AfB_GJL7O6UVzIkKwn64DxK4fD9l7p0Fi0yikaCxIUQ_Vg&oe=6566F7EA)
 
 I am currently pursuing a degree in Computer Science and Engineering at Brac University. Additionally, I have hands-on experience in Digital Marketing, Graphic Designing, and Web Development. I am enthusiastic about acquiring new skills through hard work and gaining diverse experiences.
 
