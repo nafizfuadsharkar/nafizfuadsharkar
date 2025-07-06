@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **JS some frameworks**
 
-- 👨‍💻 All of my projects are available at [https://nafizfuad.com/](https://nafizfuad.com/)
+- 👨‍💻 All of my projects are available at [https://github.com/nafizfuadsharkar/](https://github.com/nafizfuadsharkar/)
 
-- 📝 I regularly write articles on [https://nafizfuad.com/](https://nafizfuad.com/)
+- 📝 I regularly write articles on [https://github.com/nafizfuadsharkar/](https://github.com/nafizfuadsharkar/)
 
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **via mail or DM me on Linkedin**
 
-- 📄 Know about my experiences [https://nafizfuad.com/](https://nafizfuad.com/)
+- 📄 Know about my experiences [https://github.com/nafizfuadsharkar/](https://github.com/nafizfuadsharkar/)
 
 - ⚡ Fun fact **Interactive**
 
