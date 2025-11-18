@@ -1,3 +1,4 @@
+<img src="./banner.png" alt="banner">
 <h1 align="center">Hi there 👋, I'm Md Nafiz Fuad Sharkar</h1>
 <h3 align="center">A passionate Web Developer</h3>
 
