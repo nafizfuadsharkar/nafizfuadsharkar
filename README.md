@@ -1,6 +1,6 @@
 <img src="./banner.png" alt="banner">
 <h1 align="center">Hi there 👋, I'm Md Nafiz Fuad Sharkar</h1>
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=An+aspiring+Software+Engineer;Interested+in+Machine+Learning" alt="Typing SVG" /></a>
+<div align="center"><a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=An+aspiring+Software+Engineer;Interested+in+Machine+Learning" alt="Typing SVG" /></a></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nafizfuadsharkar&label=Profile%20views&color=0e75b6&style=flat" alt="nafizfuadsharkar" /> </p>
 
