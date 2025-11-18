@@ -59,8 +59,15 @@
 
 [![Tools & Technologies](https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman)](https://github.com/nafizfuadsharkar)
 
+<br>
+<h1>GITHUB STATISTICS & ANALYSIS:</h1>
+
+<h3>GitHub Contributions:</h3>
+
+![Snake Grid](https://github.com/touhidcodes/contribution-snake/blob/output/grid.svg)
 
 
+<h3>Used Languages:</h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nafizfuadsharkar&show_icons=true&locale=en&layout=compact" alt="nafizfuadsharkar" /></p>
 
