@@ -66,8 +66,47 @@
 
 ![Snake Grid](https://github.com/touhidcodes/contribution-snake/blob/output/grid.svg)
 
+<h3>GitHub Statistics:</h3>
+
+<div align="left">
+
+![](https://github-readme-stats.vercel.app/api?username=nafizfuadsharkar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+
+</div>
+
+<h3>GitHub Streak:</h3>
+
+<div align="left">
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=nafizfuadsharkar&theme=tokyonight&hide_border=false)
+
+</div>
 
 <h3>Used Languages:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nafizfuadsharkar&show_icons=true&locale=en&layout=compact" alt="nafizfuadsharkar" /></p>
+<div align="left" >
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nafizfuadsharkar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+</div>
+
+
+
+
+
+<h3 align="left">Repository Stats:</h3>
+
+<div align="left">
+
+
+![](https://github-contributor-stats.vercel.app/api?username=nafizfuadsharkar&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+
+
+
+</div>
+
+
 
